@@ -1,3 +1,3 @@
 # Ether1oop.github.io
-# [EmitAdd](# EmitRemove)
-# [EmitRemove] {#2}
+# [EmitAdd](#EmitAdd)
+# [EmitRemove](#EmitRemove)
